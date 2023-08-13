@@ -1,0 +1,57 @@
+body{
+    background: #393939;
+}
+
+.div1{
+    height: 100%;
+    width: 100%;
+    color: #ffffff;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+font-size: 20;
+font-family: courier;
+font-weight: 400;
+}
+
+.div2{
+    background-color: #ffffff;
+    color: #393939;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 15%;
+    height: 8%;
+    font-size: 20px;
+    justify-content: center;
+    border: #393939;
+    
+font-family: courier;
+font-weight: 500;
+}
+
+
+a:link {
+    color: #393939;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: #393939;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #393939;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #393939;
+    background-color: transparent;
+    text-decoration: underline;
+  }
